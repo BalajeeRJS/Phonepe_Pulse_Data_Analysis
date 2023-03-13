@@ -32,8 +32,8 @@ Please replace with  your own **Username**,**Password**,**AWS Endpoint** and **D
 
 ## Command to run
 
-**Clone from Phonepe Pulse repository** --->python clone.py [Note: create a new folder in current working directory as per repo_name variable value in clone.py]\
-**To create table and insert data to datbase** --->python sql.py [Note:Replace all path variables in sql.py as per your working directory path]\
+**Clone from Phonepe Pulse repository** --->python clone.py [**Note:** create a new folder in current working directory as per repo_name variable value in clone.py]\
+**To create table and insert data to datbase** --->python sql.py [**Note:** Replace all path variables in sql.py as per your working directory path]\
 **To start web app** --> streamlit run main.py
 
 ## How app works ?
