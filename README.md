@@ -1,6 +1,6 @@
-## Phonepe Pulse (2018-2020) Data_Analysis
+## Phonepe Pulse (2018-2022) Data_Analysis
 
-This is Streamlit web app for analysing and visualizing Phonepe Pulse Data(2018-2020).The unstructured pluse data are cloned and transformed to structure data. Then,the structure data are stored in AWS RDS Mysql database.
+This is Streamlit web app for analysing and visualizing Phonepe Pulse Data(2018-2022).The unstructured pluse data are cloned and transformed to structure data. Then,the structure data are stored in AWS RDS Mysql database.
 
 Web App is - [Live](https://balajeerjs-phonepe-pulse-data-analysis-main-rht4p9.streamlit.app/)
 
@@ -11,7 +11,7 @@ Web App is - [Live](https://balajeerjs-phonepe-pulse-data-analysis-main-rht4p9.s
 **SQL Database:**: AWS RDS MySQL\
 **GUI Framework:** Streamlit
 
-## Storing and Fetching  data in AWS RDS MySQL
+## Storing and Fetching  data in AWS RDS MySQL Database
 
 The Pulse data are stored and fetched using **mysql-connector-python** python library.
 
