@@ -51,4 +51,4 @@ The app  has 3 sections
  - [Streamlit docs](https://docs.streamlit.io/)
  
 ## My Linkedin Post
-- [LinkedIn Post](https://www.linkedin.com/posts/rjs-balajee-389a8215a_python-dataengineering-streamlit-activity-7040484622387867648-PrKW?utm_source=share&utm_medium=member_desktop)
+- [LinkedIn Post](https://www.linkedin.com/posts/rjs-balajee-389a8215a_python-dataengineering-aws-activity-7041175210158432256-jaS2?utm_source=share&utm_medium=member_desktop)
