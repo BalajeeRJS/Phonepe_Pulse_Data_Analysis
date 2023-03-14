@@ -304,5 +304,5 @@ with tab2:
                    title=f"TOP 3 DISTRICT BY REGISTERED USER COUNT- '{int(Top_Dis_year)}'")
       fig.update_traces(textposition='inside', textinfo='percent+label')
       st.plotly_chart(fig,use_container_width=True) 
-mydb.close()    
+mycursor.close()    
 
