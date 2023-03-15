@@ -254,7 +254,7 @@ with tab1:
       st.dataframe(df_ty) 
       fig = px.pie(df_ty, values='Total_Transaction_count',
                    names='state',color_discrete_sequence=px.colors.sequential.Rainbow,
-                   title=f"TOP 3 STATE BY REGISTERED USER COUNT- '{int(Top_year)}'")
+                   title=f"TOP 3 STATE BY TRANSACTION- '{int(Top_year)}'")
       fig.update_traces(textposition='inside', textinfo='percent+label')
       st.plotly_chart(fig,use_container_width=True) 
    with col2:
