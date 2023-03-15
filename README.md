@@ -2,7 +2,7 @@
 
 This is Streamlit web app for analysing and visualizing Phonepe Pulse Data(2018-2022).The unstructured pluse data are cloned and transformed to structure data. Then,the structure data are stored in AWS RDS Mysql database.
 
-Web App is - [Live](https://balajeerjs-phonepe-pulse-data-analysis-main-rht4p9.streamlit.app/)
+Web App is - [https://balajeerjs-phonepe-pulse-data-analysis-main-b2jniv.streamlit.app/](https://balajeerjs-phonepe-pulse-data-analysis-main-b2jniv.streamlit.app/)
 
 ## Tech Stack
 
