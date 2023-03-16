@@ -2,6 +2,8 @@
 
 This is Streamlit web app for analysing and visualizing Phonepe Pulse Data(2018-2022).The unstructured pluse data are cloned and transformed to structure data. Then,the structure data are stored in AWS RDS Mysql database.
 
+This project uses ETL (Extract , Transform , Load ) methodology.The Phonepe pulse data are extracted from Phonepe repository. The extracted data are transformed to structed data and stored in AWS MySql database.
+
 Web App is - [https://balajeerjs-phonepe-pulse-data-analysis-main-b2jniv.streamlit.app/](https://balajeerjs-phonepe-pulse-data-analysis-main-b2jniv.streamlit.app/)
 
 ## Tech Stack
